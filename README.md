@@ -32,7 +32,7 @@ print("No.of Rows:",len(df.axes[0]))
 print("No.of Columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![Screenshot 2023-06-04 125922](https://github.com/ROHITJAIND/Read-CSV-File/assets/118707073/e6ecec2c-dab4-4e4b-899b-48834d5ec733)
+![output (1)](https://github.com/abinayasangeetha/Read-from-CSV/assets/119393675/ee3690a4-8401-4f07-856c-6a0b7c409127)
 
 ## RESULT:
 Hence the programe is executed successfully!
